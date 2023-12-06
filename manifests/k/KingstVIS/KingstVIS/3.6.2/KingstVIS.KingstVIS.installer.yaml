@@ -1,0 +1,13 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS1.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: KingstVIS.KingstVIS
+PackageVersion: 3.6.2
+InstallerType: nullsoft
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: http://www.qdkingst.com/download/vis_win
+  InstallerSha256: 3ACB0409FD686DF7B18D23507F6E8F1EC18017A57585550ADC77412652EA533C
+ManifestType: installer
+ManifestVersion: 1.5.0
