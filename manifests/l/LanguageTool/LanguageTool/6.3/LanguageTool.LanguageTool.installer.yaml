@@ -1,0 +1,16 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS0.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: LanguageTool.LanguageTool
+PackageVersion: "6.3"
+MinimumOSVersion: 10.0.0.0
+InstallerType: zip
+Installers:
+- Architecture: neutral
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: C:\
+  InstallerUrl: https://languagetool.org/download/LanguageTool-6.3.zip
+  InstallerSha256: 32F529F249B15F758B38CC00E4818AF3B3478490C2A0AE2825E2B5E980473E08
+ManifestType: installer
+ManifestVersion: 1.5.0

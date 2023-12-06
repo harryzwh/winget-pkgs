@@ -1,0 +1,13 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS0.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: Insecure.Npcap
+PackageVersion: "0.96"
+InstallerType: nullsoft
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: https://nmap.org/npcap/dist/npcap-0.96.exe
+  InstallerSha256: 83667E1306FDCF7F9967C10277B36B87E50EE8812E1EE2BB9443BDD065DC04A1
+ManifestType: installer
+ManifestVersion: 1.5.0

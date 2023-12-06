@@ -1,0 +1,28 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS0.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+
+PackageIdentifier: LanguageTool.LanguageTool
+PackageVersion: "6.3"
+PackageLocale: en-US
+Publisher: LanguageTool
+PublisherUrl: https://languagetool.org/
+PublisherSupportUrl: https://languagetooler.freshdesk.com/en/support/home
+PrivacyUrl: https://languagetool.org/legal/privacy
+# Author: 
+PackageName: LanguageTool
+PackageUrl: https://languagetool.org/
+License: Proprietary
+# LicenseUrl: 
+Copyright: Copyright © 2022 LanguageTool
+# CopyrightUrl: 
+ShortDescription: LanguageTool Desktop app for Windows
+# Description: 
+# Moniker: 
+# Tags: 
+# ReleaseNotes: 
+# ReleaseNotesUrl: 
+# PurchaseUrl: 
+# InstallationNotes: 
+# Documentations: 
+ManifestType: defaultLocale
+ManifestVersion: 1.5.0
