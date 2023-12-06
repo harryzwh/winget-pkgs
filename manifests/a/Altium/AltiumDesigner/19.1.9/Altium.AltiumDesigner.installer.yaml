@@ -1,0 +1,16 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS1.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: Altium.AltiumDesigner
+PackageVersion: 19.1.9
+InstallerType: zip
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  NestedInstallerType: nullsoft
+  NestedInstallerFiles:
+  - RelativeFilePath: C:\
+  InstallerUrl: https://www.altium.com.cn/altium_release/download?id=728
+  InstallerSha256: D2E98BFA4ACC936E6BD5B19BD7608500C00357D8D205540E5F55C8EF2FEDB564
+ManifestType: installer
+ManifestVersion: 1.5.0
