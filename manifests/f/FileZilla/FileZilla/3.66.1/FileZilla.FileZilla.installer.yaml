@@ -1,0 +1,13 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS1.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: FileZilla.FileZilla
+PackageVersion: 3.66.1
+InstallerType: nullsoft
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: https://download.filezilla-project.org/client/FileZilla_3.66.1_win64-setup.exe
+  InstallerSha256: 72DD2D9247D78FAE564056770C53F96ACACF6E5129D5666C16CD80C300BF849A
+ManifestType: installer
+ManifestVersion: 1.5.0
