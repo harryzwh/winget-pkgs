@@ -1,0 +1,15 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS1.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: lierdakil.pandoc-crossref
+PackageVersion: 0.3.17.0
+InstallerType: zip
+Installers:
+- Architecture: x64
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: C:\
+  InstallerUrl: https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.17.0/pandoc-crossref-Windows.7z
+  InstallerSha256: 4FA210FEB55265F87E255C8C176CAA8DE906DAD224C9D3CD482609C6070D8E5C
+ManifestType: installer
+ManifestVersion: 1.5.0

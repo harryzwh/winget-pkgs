@@ -1,0 +1,16 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS1.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: VMware.VMRC
+PackageVersion: 12.0.5
+InstallerType: zip
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  NestedInstallerType: nullsoft
+  NestedInstallerFiles:
+  - RelativeFilePath: C:\
+  InstallerUrl: https://softwareupdate.vmware.com/cds/vmw-desktop/vmrc/12.0.5/22744838/windows/vmrc-windows.tar
+  InstallerSha256: FD34ABEF686B4E044F5A06F1DF7DE616935A9DF8EBE588D80FA1F9B95763932A
+ManifestType: installer
+ManifestVersion: 1.5.0
