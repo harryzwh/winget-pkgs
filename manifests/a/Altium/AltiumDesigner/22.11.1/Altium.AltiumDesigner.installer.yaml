@@ -1,0 +1,16 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=QUSU.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: Altium.AltiumDesigner
+PackageVersion: 22.11.1
+InstallerType: zip
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  NestedInstallerType: nullsoft
+  NestedInstallerFiles:
+  - RelativeFilePath: c:\
+  InstallerUrl: https://www.altium.com.cn/altium_release/download?id=904
+  InstallerSha256: 4C8B21ACD269F6E75577BB16E13DD3586D7B5630E0FD7390F676F699EDE44960
+ManifestType: installer
+ManifestVersion: 1.5.0
