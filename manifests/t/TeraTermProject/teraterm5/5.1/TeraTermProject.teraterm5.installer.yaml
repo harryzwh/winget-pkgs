@@ -1,14 +1,14 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 # Created using wingetcreate
 
-PackageIdentifier: TeraTermProject.teraterm
-PackageVersion: 4.107
+PackageIdentifier: TeraTermProject.teraterm5
+PackageVersion: 5.1
 MinimumOSVersion: 10.0.0.0
 Installers:
 - Architecture: x86
   InstallerType: exe
-  InstallerUrl: https://github.com/TeraTermProject/teraterm/releases/download/v4.107/teraterm-4.107.exe
-  InstallerSha256: f526f9941b704eaec3e97728d445d679389843e6cb2e2078b0b7455e428311da
+  InstallerUrl: https://github.com/TeraTermProject/teraterm/releases/download/v5.1/teraterm-5.1.exe
+  InstallerSha256: f02d8ad8f7587cdd389e1774fc9c6645a3301d7b9eb33431cfac49da848572f7
   InstallerSwitches:
     Silent: /Silent
     SilentWithProgress: /Silent

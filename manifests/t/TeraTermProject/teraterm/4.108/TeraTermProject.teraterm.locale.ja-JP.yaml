@@ -2,7 +2,7 @@
 # Created using wingetcreate
 
 PackageIdentifier: TeraTermProject.teraterm
-PackageVersion: 4.107
+PackageVersion: 4.108
 PackageLocale: ja-JP
 Publisher: TeraTerm Project
 PackageName: Tera Term
