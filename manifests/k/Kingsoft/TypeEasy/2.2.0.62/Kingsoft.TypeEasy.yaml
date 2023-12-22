@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2023/Dec/21
+# Created with YamlCreate.ps1 v2.2.12 by Dumplings $debug=QUSU.CRLF.7-2-17.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: 123.123pan
-PackageVersion: 1.3.3.0
+PackageIdentifier: Kingsoft.TypeEasy
+PackageVersion: 2.2.0.62
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
