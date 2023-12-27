@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.5.7.0
+# Created with YamlCreate.ps1 v2.2.12 by Dumplings $debug=QUSU.CRLF.7-2-17.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: Ryujinx.Ryujinx.Ava
-PackageVersion: 1.1.1100
+PackageIdentifier: Brave.Brave.Nightly
+PackageVersion: 120.1.63.73
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
