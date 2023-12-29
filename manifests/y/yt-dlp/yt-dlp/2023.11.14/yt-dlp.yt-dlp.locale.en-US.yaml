@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
 
 PackageIdentifier: yt-dlp.yt-dlp
-PackageVersion: 2023.11.16
+PackageVersion: 2023.11.14
 PackageLocale: en-US
 Publisher: yt-dlp
 PublisherUrl: https://github.com/yt-dlp
@@ -26,7 +26,14 @@ Tags:
 - media-downloader
 - audio
 - audio-downloader
-ReleaseNotesUrl: https://github.com/yt-dlp/yt-dlp/releases/tag/2023.11.16
+ReleaseNotes: |-
+  Important changes
+  - The release channels have been adjusted!
+  - master builds are made after each push, containing the latest fixes (but also possibly bugs). This was previously the nightly channel.
+  - nightly builds are now made once a day, if there were any changes.
+  - Security: [CVE-2023-46121] Patch Generic Extractor MITM Vulnerability via Arbitrary Proxy Injection
+  - Disallow smuggling of arbitrary http_headers; extractors now only use specific headers
+ReleaseNotesUrl: https://github.com/yt-dlp/yt-dlp/releases/tag/2023.11.14
 Documentations:
 - DocumentLabel: Wiki
   DocumentUrl: https://github.com/yt-dlp/yt-dlp/wiki
