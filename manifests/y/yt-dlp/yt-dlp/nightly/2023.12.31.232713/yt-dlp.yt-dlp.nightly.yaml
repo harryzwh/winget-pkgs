@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Jan/04
+# Created with Komac v1.11.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: Maxthon.Maxthon
-PackageVersion: 7.1.7.8000
+PackageIdentifier: yt-dlp.yt-dlp.nightly
+PackageVersion: 2023.12.31.232713
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
