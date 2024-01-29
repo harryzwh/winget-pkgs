@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Jan/29
+# Created with YamlCreate.ps1 v2.3.1 Dumplings Mod $debug=QUSU.CRLF.7-4-1.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: 123.123pan
-PackageVersion: 1.3.3.0
+PackageIdentifier: JetBrains.GoLand.EAP
+PackageVersion: 241.9959.38
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
