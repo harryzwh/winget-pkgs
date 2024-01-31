@@ -2,16 +2,16 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: rsteube.Carapace
-PackageVersion: 0.28.3
+PackageVersion: 0.30.1
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
 - RelativeFilePath: carapace.exe
 UpgradeBehavior: install
-ReleaseDate: 2023-11-03
+ReleaseDate: 2024-01-31
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/rsteube/carapace-bin/releases/download/v0.28.3/carapace-bin_windows_amd64.zip
-  InstallerSha256: B8A696FE6954965833668FCD4B1F3DF32D31E367D572C4FB97DCDDE6717E05A8
+  InstallerUrl: https://github.com/rsteube/carapace-bin/releases/download/v0.30.1/carapace-bin_windows_amd64.zip
+  InstallerSha256: E74537EB4863057A36C1AF06C9F2233D8D681EC59B7F96CC9F3357F166F798CC
 ManifestType: installer
 ManifestVersion: 1.5.0
