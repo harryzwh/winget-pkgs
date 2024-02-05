@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.5.7.0
+# Created with komac v2.0.3
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: TheDocumentFoundation.LibreOffice
-PackageVersion: 24.2.0.3
+PackageIdentifier: Ryujinx.Ryujinx.Ava
+PackageVersion: 1.1.1155
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
