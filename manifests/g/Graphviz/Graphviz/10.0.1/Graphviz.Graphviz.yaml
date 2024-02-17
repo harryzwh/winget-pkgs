@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Feb/09
+# Created using wingetcreate 1.5.7.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.5.0.schema.json
 
-PackageIdentifier: BitSum.ProcessLasso.Beta
-PackageVersion: 12.5.0.35
+PackageIdentifier: Graphviz.Graphviz
+PackageVersion: 10.0.1
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.5.0
