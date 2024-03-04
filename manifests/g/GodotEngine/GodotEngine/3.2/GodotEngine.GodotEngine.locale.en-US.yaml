@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: GodotEngine.GodotEngine
-PackageVersion: "3.0"
+PackageVersion: "3.2"
 PackageLocale: en-US
 Publisher: Godot Engine
 PublisherUrl: https://godotengine.org
@@ -14,15 +14,15 @@ PackageUrl: https://godotengine.org/download/windows
 License: MIT License
 LicenseUrl: https://godotengine.org/license
 Copyright: |-
-  Copyright (c) 2014-2018 Godot Engine Contributors.
-  Copyright (c) 2007-2018 Juan Linietsky, Ariel Manzur.
+  Copyright (c) 2014-2020 Godot Engine contributors.
+  Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 CopyrightUrl: https://godotengine.org/license
 ShortDescription: Multi-platform 2D and 3D game engine
 Description: |-
   Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
   It provides a comprehensive set of common tools, so that users can focus on making games without having to
   reinvent the wheel. Games can be exported with one click to a number of platforms, including the major desktop
-  platforms (Linux, macOS, Windows).
+  platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
 Moniker: godot
 Tags:
 - game-development
@@ -33,12 +33,14 @@ Tags:
 - hacktoberfest
 - multi-platform
 - open-source
-# ReleaseNotes:
-ReleaseNotesUrl: https://godotengine.org/article/godot-3-0-released
+ReleaseNotes: |-
+  Godot contributors are thrilled and delighted to release our newest major update, Godot 3.2! It's the result of over 10 months of work by close to 450 contributors (300 of them contributing to Godot for the first time) who authored more than 6000 commits!
+  Godot 3.2 is a major improvement over our previous 3.1 installment, bringing dozens of major features and hundreds of bugfixes and enhancements to bring our game developers an ever-improving feature set with a strong focus on usability.
+ReleaseNotesUrl: https://godotengine.org/article/here-comes-godot-3-2
 # PurchaseUrl:
 # InstallationNotes:
 Documentations:
-- DocumentLabel: Godot Engine 3.0 documentation in English
-  DocumentUrl: https://docs.godotengine.org/en/3.0/
+- DocumentLabel: Godot Engine 3.2 documentation in English
+  DocumentUrl: https://docs.godotengine.org/en/3.2/
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
