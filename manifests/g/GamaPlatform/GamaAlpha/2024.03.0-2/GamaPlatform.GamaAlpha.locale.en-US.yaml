@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
 
 PackageIdentifier: GamaPlatform.GamaAlpha
-PackageVersion: 2024.02.0-2
+PackageVersion: 2024.03.0-2
 PackageLocale: en-US
 Publisher: Gama-platform
 PublisherUrl: https://gama-platform.org
@@ -23,7 +23,7 @@ Tags:
 - open-source
 - gama
 - pre-release
-ReleaseNotesUrl: https://github.com/gama-platform/gama/releases/tag/2024.02.0
+ReleaseNotesUrl: https://github.com/gama-platform/gama/releases/tag/2024.03.0
 Documentations:
 - DocumentLabel: Documentation
   DocumentUrl: https://gama-platform.org/wiki/Home
