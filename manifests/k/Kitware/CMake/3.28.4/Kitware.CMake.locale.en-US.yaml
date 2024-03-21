@@ -1,8 +1,8 @@
-# Created with komac v2.1.1
+# Created with komac v2.1.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: Kitware.CMake
-PackageVersion: 3.29.0-rc2
+PackageVersion: 3.28.4
 PackageLocale: en-US
 Publisher: Kitware
 PublisherUrl: https://www.kitware.com/
@@ -25,6 +25,6 @@ Tags:
 - cross-platform
 - foss
 ReleaseNotes: See also the release notes and release milestone.PGP sig by 2D2CEF1034921684
-ReleaseNotesUrl: https://github.com/Kitware/CMake/releases/tag/v3.29.0-rc2
+ReleaseNotesUrl: https://github.com/Kitware/CMake/releases/tag/v3.28.4
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
