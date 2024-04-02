@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Apr/01
+# Created with YamlCreate.ps1 v2.3.4 Dumplings Mod $debug=QUSU.CRLF.7-4-1.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: RemNote.RemNote
-PackageVersion: 1.15.4
+PackageVersion: 1.15.6
 PackageLocale: en-US
 Publisher: RemNote
 PublisherUrl: https://www.remnote.com
@@ -12,8 +12,12 @@ Author: RemNote Inc.
 PackageName: RemNote
 PackageUrl: https://www.remnote.com
 License: Proprietary
+# LicenseUrl:
 Copyright: RemNote 2022 ©
+# CopyrightUrl:
 ShortDescription: The all-in-one tool for thinking and learning
+# Description:
+# Moniker:
 Tags:
 - annotate
 - annotation
@@ -31,7 +35,10 @@ Tags:
 - outliner
 - pdf
 - reference
+# ReleaseNotes:
+# ReleaseNotesUrl:
 PurchaseUrl: https://www.remnote.com/pricing
+# InstallationNotes:
 Documentations:
 - DocumentLabel: Tutorials
   DocumentUrl: https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA
