@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Apr/02
+# Created with komac v2.2.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: Reqable.Reqable
-PackageVersion: 2.10.1
+PackageIdentifier: Microsoft.AzureCLI
+PackageVersion: 2.59.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
