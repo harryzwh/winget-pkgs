@@ -2,10 +2,10 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: aislx.FlameLauncher
-PackageVersion: 1.0.3
+PackageVersion: 1.0.4
 PackageLocale: en-US
 Publisher: aislx
-PublisherUrl: https://flamelauncher.my-style.in
+PublisherUrl: https://fmcl.rf.gd
 PublisherSupportUrl: https://bit.ly/flameuniverse
 PrivacyUrl: https://github.com/aislxflames/flame-launcher?tab=MIT-1-ov-file
 Author: Aislx
