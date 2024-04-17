@@ -1,0 +1,15 @@
+# Created with YamlCreate.ps1 v2.2.12 $debug=NVS0.CRLF.5-1-19041-3693.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: Nvidia.cudnn
+PackageVersion: 8.5.0.96
+InstallerType: zip
+Installers:
+- Architecture: x64
+  NestedInstallerType: portable
+  NestedInstallerFiles:
+  - RelativeFilePath: C:\
+  InstallerUrl: https://developer.download.nvidia.com/compute/cudnn/redist/cudnn/windows-x86_64/cudnn-windows-x86_64-9.1.0.70_cuda12-archive.zip
+  InstallerSha256: 3083B5BF20B0B2B29305DE088E0B2CDBB78B5190655A27E8A7C596E47042EEDF
+ManifestType: installer
+ManifestVersion: 1.5.0
