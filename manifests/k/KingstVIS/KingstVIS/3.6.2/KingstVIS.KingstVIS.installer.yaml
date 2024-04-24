@@ -8,6 +8,6 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerUrl: http://www.qdkingst.com/download/vis_win
-  InstallerSha256: 3ACB0409FD686DF7B18D23507F6E8F1EC18017A57585550ADC77412652EA533C
+  InstallerSha256: B75925B1D422100C9984CFC8796E690D31088550254A62BA313EF2D4AC8E436D
 ManifestType: installer
 ManifestVersion: 1.5.0
