@@ -1,8 +1,8 @@
 # Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-2.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
 
-PackageIdentifier: Azul.Zulu.19.JDK
-PackageVersion: 19.32.13
+PackageIdentifier: Azul.Zulu.22.JDK
+PackageVersion: 22.30.13
 InstallerType: wix
 Scope: machine
 InstallerSwitches:
@@ -31,14 +31,13 @@ FileExtensions:
 - jar
 - java
 - jsp
-ReleaseDate: 2023-01-17
 AppsAndFeaturesEntries:
-- ProductCode: '{BBF43A9B-57CC-4BBE-B0D8-23A25A089C45}'
-  UpgradeCode: '{B5408381-6636-4478-AE21-A96DD437230C}'
+- ProductCode: '{65C002D7-7942-4F10-8755-5B8D74BAF198}'
+  UpgradeCode: '{3F90DE18-7EA8-43B3-B1C8-C8A5B75DC4AF}'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://cdn.azul.com/zulu/bin/zulu19.32.13-ca-jdk19.0.2-win_x64.msi
-  InstallerSha256: 9C09A8752D79254743BE43BFF20F9D94EF80C082A27F06B8F7A7492DB24080AE
-  ProductCode: '{BBF43A9B-57CC-4BBE-B0D8-23A25A089C45}'
+  InstallerUrl: https://cdn.azul.com/zulu/bin/zulu22.30.13-ca-jdk22.0.1-win_x64.msi
+  InstallerSha256: FC41199D2DA2B84F5C82A5AC11D3E997BE640426116963B24B25C7BD80EA48A8
+  ProductCode: '{65C002D7-7942-4F10-8755-5B8D74BAF198}'
 ManifestType: installer
 ManifestVersion: 1.6.0
