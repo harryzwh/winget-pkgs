@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: Fort.Firewall
-PackageVersion: 3.12.4
+PackageVersion: 3.12.5
 PackageLocale: en-US
 Publisher: Nodir Temirkhodjaev
 PublisherUrl: https://github.com/tnodir
@@ -45,8 +45,8 @@ Tags:
 - speed-limit
 - traffic-quota
 ReleaseNotes: |-
-  - Process "-c prog ..." command line arguments by Service directly in absence of UI process.
-  - Installer: Don't uninstall "boot filter" on upgrade.
-ReleaseNotesUrl: https://github.com/tnodir/fort/releases/tag/v3.12.4
+  - UI: Portable: Istall driver on startup and uninstall on exit.
+  - Installer: Portable: Don't install driver to system.
+ReleaseNotesUrl: https://github.com/tnodir/fort/releases/tag/v3.12.5
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0

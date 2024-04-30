@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: Google.AndroidStudio
-PackageVersion: 2023.2.1.25
+PackageVersion: 2023.3.1.18
 PackageLocale: en-US
 Publisher: Google LLC
 PublisherUrl: https://developer.android.com/
@@ -34,7 +34,7 @@ Tags:
 - ide
 - intellij
 - studio
-ReleaseNotesUrl: https://developer.android.com/studio/releases/past-releases/as-iguana-release-notes
+ReleaseNotesUrl: https://developer.android.com/studio/releases
 Documentations:
 - DocumentLabel: Troubleshoot
   DocumentUrl: https://developer.android.com/studio/troubleshoot
