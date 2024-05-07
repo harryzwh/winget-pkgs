@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.6.1.0
+# Created with komac v2.2.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: SteelSeries.GG
-PackageVersion: 60.1.0
+PackageIdentifier: Gaming.Intelligence
+PackageVersion: 0.0.2.78
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
