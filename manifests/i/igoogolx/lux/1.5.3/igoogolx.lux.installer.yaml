@@ -2,12 +2,12 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: igoogolx.lux
-PackageVersion: 1.0.0
+PackageVersion: 1.5.3
 InstallerType: inno
-ReleaseDate: 2024-02-16
+ReleaseDate: 2024-05-09
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/igoogolx/lux/releases/download/v1.0.0/lux-1.0.0+1.0.0-windows-setup.exe
-  InstallerSha256: F3462F707B0828D0EEF195A7845E0EBA184CEB7467B4E383954A48D1A917AC66
+  InstallerUrl: https://github.com/igoogolx/lux/releases/download/v1.5.3/lux-1.5.3+1.5.3-windows-setup.exe
+  InstallerSha256: B3B15A3CBC63C85BA05E4FA8594BDDFFDABF25C1F561793D3FEEDE486FB3218D
 ManifestType: installer
 ManifestVersion: 1.5.0
