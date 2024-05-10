@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/May/10
+# Automatically updated by the winget bot at 2024/May/09
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: IronmanSoftware.PowerShellUniversal
-PackageVersion: 4.2.21
+PackageIdentifier: VirtualHere.USBClient
+PackageVersion: 5.6.2
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
