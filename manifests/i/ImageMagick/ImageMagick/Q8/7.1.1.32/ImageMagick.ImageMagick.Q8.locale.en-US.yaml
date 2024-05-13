@@ -1,7 +1,7 @@
 # Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-2.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
-PackageIdentifier: ImageMagick.ImageMagick
+PackageIdentifier: ImageMagick.ImageMagick.Q8
 PackageVersion: 7.1.1.32
 PackageLocale: en-US
 Publisher: ImageMagick Studio LLC
@@ -9,7 +9,7 @@ PublisherUrl: https://imagemagick.org/
 PublisherSupportUrl: https://github.com/ImageMagick/ImageMagick/issues
 PrivacyUrl: https://imagemagick.org/script/privacy-policy.php
 Author: ImageMagick Studio LLC
-PackageName: ImageMagick Q16-HDRI
+PackageName: ImageMagick Q8
 PackageUrl: https://imagemagick.org/
 License: ImageMagick
 LicenseUrl: https://imagemagick.org/script/license.php
