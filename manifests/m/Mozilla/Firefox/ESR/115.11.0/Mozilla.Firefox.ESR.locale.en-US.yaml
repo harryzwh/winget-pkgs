@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: Mozilla.Firefox.ESR
-PackageVersion: 115.9.0
+PackageVersion: 115.11.0
 PackageLocale: en-US
 Publisher: Mozilla
 PublisherUrl: https://www.mozilla.org/
@@ -31,7 +31,7 @@ ReleaseNotes: |-
   Fixed
   - Various security fixes and other quality improvements.
   Developer
-ReleaseNotesUrl: https://www.mozilla.org/firefox/115.9.0/releasenotes/
+ReleaseNotesUrl: https://www.mozilla.org/firefox/115.11.0/releasenotes/
 # PurchaseUrl:
 # InstallationNotes:
 # Documentations:
