@@ -1,15 +1,15 @@
 # Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-2.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.6.0.schema.json
 
-PackageIdentifier: Google.Chrome
-PackageVersion: 124.0.6367.208
+PackageIdentifier: Google.Chrome.EXE
+PackageVersion: 125.0.6422.61
 PackageLocale: nb-NO
 Publisher: Google LLC
 PublisherUrl: https://www.google.com/
 PublisherSupportUrl: https://support.google.com/?hl=no
 PrivacyUrl: https://policies.google.com/privacy?hl=no
 Author: Google LLC
-PackageName: Google Chrome
+PackageName: Google Chrome (EXE)
 PackageUrl: https://www.google.com/intl/no/chrome/
 License: Gratis Programvare
 LicenseUrl: https://www.google.com/intl/no/chrome/terms
