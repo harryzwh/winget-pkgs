@@ -1,8 +1,8 @@
-# Created with YamlCreate.ps1 v2.4.1 $debug=AUSU.CRLF.5-1-26212-5000.Win32NT
+# Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-2.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: softsyst.QIRX4
-PackageVersion: 4.2.2
+PackageIdentifier: yt-dlp.yt-dlp.nightly
+PackageVersion: 2024.05.17.232726
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
