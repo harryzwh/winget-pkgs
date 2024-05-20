@@ -1,31 +1,42 @@
 # Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-2.Win32NT
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
-PackageIdentifier: Microsoft.EdgeWebView2Runtime
-PackageVersion: 124.0.2478.109
+PackageIdentifier: Microsoft.OneDrive
+PackageVersion: 24.086.0428.0003
 PackageLocale: en-US
 Publisher: Microsoft Corporation
 PublisherUrl: https://www.microsoft.com/
-PublisherSupportUrl: https://github.com/MicrosoftEdge/WebView2Feedback/issues
+PublisherSupportUrl: https://support.microsoft.com/
 PrivacyUrl: https://privacy.microsoft.com/privacystatement
 Author: Microsoft Corporation
-PackageName: Microsoft Edge WebView2 Runtime
-PackageUrl: https://developer.microsoft.com/microsoft-edge/webview2/
+PackageName: Microsoft OneDrive
+PackageUrl: https://www.microsoft.com/microsoft-365/onedrive/download
 License: Proprietary
 LicenseUrl: https://www.microsoft.com/legal/terms-of-use
 Copyright: © 2024 Microsoft Corporation. All rights reserved.
 CopyrightUrl: https://www.microsoft.com/legal/intellectualproperty/trademarks
-ShortDescription: Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.
+ShortDescription: Keep your files and memories protected, up to date, and easily accessible across all your devices.
 # Description:
-Moniker: webview2
+Moniker: onedrive
 Tags:
-- webview
+- backup
+- cloud
+- cloud-drive
+- download
+- drive
+- file
+- microsoft365
+- netdisk
+- o365
+- office
+- office365
+- share
+- sync
+- upload
 # ReleaseNotes:
-ReleaseNotesUrl: https://learn.microsoft.com/microsoft-edge/webview2/release-notes/
+ReleaseNotesUrl: https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0
 # PurchaseUrl:
 # InstallationNotes:
-Documentations:
-- DocumentLabel: Documentation
-  DocumentUrl: https://learn.microsoft.com/microsoft-edge/webview2/
+# Documentations:
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
