@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Apr/26
+# Created with komac v2.2.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: Icons8.Lunacy
-PackageVersion: 9.6.0
+PackageIdentifier: Grammarly.Grammarly
+PackageVersion: 1.2.79.1403
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
