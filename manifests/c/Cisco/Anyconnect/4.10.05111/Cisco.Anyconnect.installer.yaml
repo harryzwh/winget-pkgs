@@ -7,7 +7,7 @@ InstallerType: msi
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: http://bluelink.ca/ftp/CiscoVPN/anyconnect-win-permalink.msi
+  InstallerUrl: https://bluelink.ca/ftp/CiscoVPN/anyconnect-win-permalink.msi
   InstallerSha256: E7EAA64EF6340797FEBE588AB733E41E851E3825E5B9E4B5E0AE375204EACC43
   ProductCode: '{4C500292-8BC1-4164-936E-15D2EA5821F2}'
 ManifestType: installer
