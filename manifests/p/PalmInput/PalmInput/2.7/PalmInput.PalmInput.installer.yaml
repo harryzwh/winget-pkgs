@@ -8,6 +8,6 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerUrl: https://down.xinshuru.com/installer/win/PalmInput_Setup.exe
-  InstallerSha256: 103E3296E3FD0FAD4659900A70C0A478695DF9FFD099601583CF66B4B2D67EAC
+  InstallerSha256: 812188C80E4DB814825480F6F0BBE3F5DDA9B84950CC67D6A1A278AF1F201917
 ManifestType: installer
 ManifestVersion: 1.5.0
