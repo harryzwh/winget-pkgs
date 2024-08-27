@@ -7,7 +7,7 @@ InstallerType: nullsoft
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: http://down1.xinshuru.com/installer/win/PalmInput_Setup.exe
+  InstallerUrl: https://down.xinshuru.com/installer/win/PalmInput_Setup.exe
   InstallerSha256: 103E3296E3FD0FAD4659900A70C0A478695DF9FFD099601583CF66B4B2D67EAC
 ManifestType: installer
 ManifestVersion: 1.5.0
