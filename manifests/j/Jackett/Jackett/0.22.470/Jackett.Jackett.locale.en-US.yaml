@@ -1,8 +1,8 @@
-# Created with WinGet Releaser v2 using Komac v1.11.0
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+# Created with komac v2.5.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: Jackett.Jackett
-PackageVersion: 0.21.1946
+PackageVersion: 0.22.470
 PackageLocale: en-US
 Publisher: Jackett
 PublisherUrl: https://github.com/Jackett/Jackett
@@ -11,7 +11,7 @@ Author: Jackett Contributors
 PackageName: Jackett
 PackageUrl: https://github.com/Jackett/Jackett
 License: GPL-2.0
-LicenseUrl: https://github.com/Jackett/Jackett/blob/master/LICENSE
+LicenseUrl: https://github.com/Jackett/Jackett/blob/HEAD/LICENSE
 Copyright: Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 CopyrightUrl: https://github.com/Jackett/Jackett/blob/master/LICENSE
 ShortDescription: API Support for your favorite torrent trackers.
@@ -32,12 +32,9 @@ Tags:
 - trackers
 ReleaseNotes: |-
   Changes:
-  - assorted A-F: add activity info to config (#15120)
-  - LDU: new cat
-  - tocashare: update MST
-  - xspeeds: add activity info to config
-  - zelka: update ip filtering info
-  - zamunda: update ip filtering info
-ReleaseNotesUrl: https://github.com/Jackett/Jackett/releases/tag/v0.21.1946
+  - upscalevault: new MST
+  - rudub: bump domain
+  This list of changes was auto generated.
+ReleaseNotesUrl: https://github.com/Jackett/Jackett/releases/tag/v0.22.470
 ManifestType: defaultLocale
-ManifestVersion: 1.5.0
+ManifestVersion: 1.6.0
