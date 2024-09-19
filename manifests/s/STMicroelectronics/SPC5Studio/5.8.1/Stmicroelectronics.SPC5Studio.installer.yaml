@@ -1,0 +1,19 @@
+# Created with YamlCreate.ps1 v2.4.1 $debug=NVS2.CRLF.5-1-19041-4648.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: STMicroelectronics.SPC5Studio
+PackageVersion: 5.8.1
+InstallerType: zip
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
+UpgradeBehavior: install
+Installers:
+- Architecture: x86
+  NestedInstallerType: exe
+  NestedInstallerFiles:
+  - RelativeFilePath: "null"
+  InstallerUrl: https://mirrors.spc5studio.com/5.8.1/SPC5Studio-5.8.1.exe.zip
+  InstallerSha256: 8F6B7613D47B49EBD3C28C7103166D1857D3CA4DBFFA885EA334EFDA8C55F6A3
+ManifestType: installer
+ManifestVersion: 1.6.0
