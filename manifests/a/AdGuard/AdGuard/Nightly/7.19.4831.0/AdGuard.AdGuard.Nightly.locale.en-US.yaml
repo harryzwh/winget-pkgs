@@ -1,13 +1,14 @@
-# Automatically updated by the winget bot at 2024/Sep/13
+# Automatically updated by the winget bot at 2024/Sep/20
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
-PackageIdentifier: AdGuard.AdGuardVPN.Nightly
-PackageVersion: 2.4.1572.0
+PackageIdentifier: AdGuard.AdGuard.Nightly
+PackageVersion: 7.19.4831.0
 PackageLocale: en-US
 Publisher: Adguard Software Limited
-PackageName: AdGuardVPN
+PackageName: AdGuard
+PackageUrl: https://adguard.com/en/beta.html
 License: Proprietary
 Copyright: (c) All rights reserved
-ShortDescription: AdGuardVPN
+ShortDescription: AdGuard
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
