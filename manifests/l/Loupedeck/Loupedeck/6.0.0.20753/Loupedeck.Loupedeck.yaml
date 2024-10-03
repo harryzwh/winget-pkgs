@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.6.5.0
+# Created with komac v2.6.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
 
-PackageIdentifier: FreedomScientific.JAWS.2024
-PackageVersion: 2024.2405.48.400
+PackageIdentifier: Loupedeck.Loupedeck
+PackageVersion: 6.0.0.20753
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.6.0
