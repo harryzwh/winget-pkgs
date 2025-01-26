@@ -7,7 +7,7 @@ InstallerType: nullsoft
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://res.kingst.site/kfs/KingstVIS_v3.4.2.exe
+  InstallerUrl: https://res.kingst.site/kfs/KingstVIS_v3.6.4.exe
   InstallerSha256: 6B6CCFF743988E9A5B9028F4009C14AF916227E7F87B4151DCFA4141D9A51C3A
 ManifestType: installer
 ManifestVersion: 1.5.0
