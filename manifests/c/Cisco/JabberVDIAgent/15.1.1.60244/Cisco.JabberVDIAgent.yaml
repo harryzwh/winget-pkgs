@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.10.3.0
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: iTop.iTopScreenshot
-PackageVersion: 1.2.1.535
+PackageIdentifier: Cisco.JabberVDIAgent
+PackageVersion: 15.1.1.60244
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
