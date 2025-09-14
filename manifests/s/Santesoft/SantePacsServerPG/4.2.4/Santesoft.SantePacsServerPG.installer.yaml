@@ -1,8 +1,8 @@
-# Created with komac v2.12.1
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: Santesoft.SantePacsServerPG
-PackageVersion: 4.2.3
+PackageVersion: 4.2.4
 InstallerLocale: en-US
 InstallerType: zip
 NestedInstallerType: inno
@@ -22,7 +22,7 @@ Dependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
   - PackageIdentifier: PostgreSQL.PostgreSQL.15
 ProductCode: '{4E436175-0D78-4A8E-9CFB-EDB0A6F9D995}_is1'
-ReleaseDate: 2025-08-05
+ReleaseDate: 2025-09-08
 AppsAndFeaturesEntries:
 - ProductCode: '{4E436175-0D78-4A8E-9CFB-EDB0A6F9D995}_is1'
 ElevationRequirement: elevatesSelf
@@ -30,7 +30,7 @@ InstallationMetadata:
   DefaultInstallLocation: '%ProgramFiles%\Santesoft\Sante PACS Server PG'
 Installers:
 - Architecture: x64
-  InstallerUrl: https://www.santesoft.com/files/win/old_versions/sante_pacs_server_pg-4.2.3.zip
-  InstallerSha256: 5C87B06D167A782483B58AD83C8E088864CBF45859AC31C7A4CF4DF4ADF1BC09
+  InstallerUrl: https://www.santesoft.com/files/win/sante_pacs_server_pg.zip
+  InstallerSha256: D93B6F6B2A3FB2C415D66954B98B198235A280D08DB03D5C4EB1E356E485FFBE
 ManifestType: installer
 ManifestVersion: 1.10.0
