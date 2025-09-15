@@ -1,8 +1,8 @@
-# Created with komac v2.12.1
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Mozilla.Firefox.MSIX.Nightly
-PackageVersion: 144.2509.309.0
+PackageIdentifier: NVAccess.NVDA
+PackageVersion: "2025.3"
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
