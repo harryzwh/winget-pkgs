@@ -1,8 +1,8 @@
-# Modified with Sundry.
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Google.GoogleDesktop
-PackageVersion: 5.9.1005.12335
+PackageIdentifier: WeMod.WeMod
+PackageVersion: 11.4.2
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
