@@ -1,8 +1,8 @@
-# Modified with Sundry.
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Google.Talk
-PackageVersion: 1.0.0.105
+PackageIdentifier: OpenWhisperSystems.Signal
+PackageVersion: 7.71.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
