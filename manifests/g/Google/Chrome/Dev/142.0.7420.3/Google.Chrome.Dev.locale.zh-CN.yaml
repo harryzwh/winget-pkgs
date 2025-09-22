@@ -1,21 +1,21 @@
 # Automatically updated by the winget bot at 2025/Sep/21
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.10.0.schema.json
 
-PackageIdentifier: Google.Chrome.Beta
-PackageVersion: 141.0.7390.30
+PackageIdentifier: Google.Chrome.Dev
+PackageVersion: 142.0.7420.3
 PackageLocale: zh-CN
 Publisher: Google LLC
 PublisherUrl: https://www.google.com/
 PublisherSupportUrl: https://support.google.com/?hl=zh-Hans
 PrivacyUrl: https://policies.google.com/privacy?hl=zh-CN
 Author: Google LLC
-PackageName: Google Chrome 测试版
-PackageUrl: https://www.google.com/intl/zh-CN/chrome/beta/
+PackageName: Google Chrome 开发者版
+PackageUrl: https://www.google.com/intl/zh-CN/chrome/dev/
 License: 免费软件
 LicenseUrl: https://www.google.com/intl/zh-CN/chrome/terms/
 Copyright: 版权所有 2024 Google LLC. 保留所有权利。
-ShortDescription: 试用 Chrome 测试版的新功能
-Description: 喜欢尝鲜？欢迎赶在 Google Chrome 新功能正式发布前抢先试用，并提供反馈以帮助我们完善 Chrome 浏览器。
+ShortDescription: 开发者专用的 Google Chrome
+Description: 开发者专用的 Google Chrome 专为开放式网络打造。测试先进的网络平台 API 和每周都会更新的开发者工具。
 Tags:
 - chromium
 - 互联网
