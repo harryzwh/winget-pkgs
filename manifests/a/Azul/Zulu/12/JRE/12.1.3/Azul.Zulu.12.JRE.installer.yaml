@@ -1,8 +1,8 @@
 # Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
-PackageIdentifier: Azul.Zulu.10.JDK
-PackageVersion: '10.3'
+PackageIdentifier: Azul.Zulu.12.JRE
+PackageVersion: 12.1.3
 InstallerLocale: en-US
 InstallerType: wix
 Scope: machine
@@ -11,22 +11,21 @@ InstallerSwitches:
   Custom: ADDLOCAL=ALL
 UpgradeBehavior: install
 Commands:
-- jar
-- jarsigner
+- jabswitch
+- jaccessinspector
+- jaccesswalker
+- jaotc
 - java
-- javac
-- javadoc
-- javap
 - javaw
-- jconsole
-- jdeprscan
-- jdeps
-- jlink
-- jmod
-- jps
-- jshell
-- jstat
+- jfr
+- jjs
+- jrunscript
 - keytool
+- kinit
+- klist
+- ktab
+- rmid
+- rmiregistry
 FileExtensions:
 - class
 - jar
@@ -34,8 +33,8 @@ FileExtensions:
 - jsp
 Installers:
 - Architecture: x64
-  InstallerUrl: https://cdn.azul.com/zulu/bin/zulu10.3+5-jdk10.0.2-win_x64.msi
-  InstallerSha256: 4B8D1238AA911706065C370B65B92E4B87A57189A7AD944C369770E0FC07BCCA
-  roductCode: '{B51E58B8-6B74-4AAB-82F8-61690D17684D}'
+  InstallerUrl: https://cdn.azul.com/zulu/bin/zulu12.1.3-ca-jre12.0.0-win_x64.msi
+  InstallerSha256: 3846DB383F30C2855DCC03FF8872C945C31C924334D4D281CFD312DED2610775
+  ProductCode: '{A421604F-A8A9-4078-9E13-CDDD63F901F6}'
 ManifestType: installer
 ManifestVersion: 1.10.0
