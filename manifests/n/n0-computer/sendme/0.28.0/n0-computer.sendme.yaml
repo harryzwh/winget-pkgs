@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Aug/29
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: SoftMaker.Office.NX
-PackageVersion: 24.0.6132
+PackageIdentifier: n0-computer.sendme
+PackageVersion: 0.28.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
