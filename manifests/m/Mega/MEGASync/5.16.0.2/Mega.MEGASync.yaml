@@ -1,8 +1,8 @@
 # Automatically updated by the winget bot at 2025/Sep/23
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: SteamMemory.Fellou
-PackageVersion: 2.4.1
+PackageIdentifier: Mega.MEGASync
+PackageVersion: 5.16.0.2
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
