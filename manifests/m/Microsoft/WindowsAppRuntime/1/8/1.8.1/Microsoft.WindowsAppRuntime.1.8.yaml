@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Aug/19
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: ShareFile.ShareFileforOutlook
-PackageVersion: 25.8.14.0
+PackageIdentifier: Microsoft.WindowsAppRuntime.1.8
+PackageVersion: 1.8.1
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
