@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Aug/28
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: ThePokemonCompany.PokemonTCGLive
-PackageVersion: 1.29.1.0
+PackageIdentifier: NetworkOptix.NxWitness.Bundle
+PackageVersion: 6.0.6.41837
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
