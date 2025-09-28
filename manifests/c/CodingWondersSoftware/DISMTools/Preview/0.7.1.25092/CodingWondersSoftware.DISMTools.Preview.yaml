@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Sep/27
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Jianjing.XLJSCI
-PackageVersion: 2.5.1.0
+PackageIdentifier: CodingWondersSoftware.DISMTools.Preview
+PackageVersion: 0.7.1.25092
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
