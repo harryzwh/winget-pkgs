@@ -1,8 +1,8 @@
-# Modified with Sundry.
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: BandicamCompany.Bandicut
-PackageVersion: 4.2.1.2539
+PackageIdentifier: NCSoft.Purple
+PackageVersion: 2.25.929.5
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
