@@ -1,8 +1,8 @@
-# Created with komac v2.13.0
+# Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: BitSum.ProcessLasso
-PackageVersion: 16.0.2.10
+PackageIdentifier: BtbN.FFmpeg.LGPL
+PackageVersion: N-121271-g74115b017c-20250930
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
