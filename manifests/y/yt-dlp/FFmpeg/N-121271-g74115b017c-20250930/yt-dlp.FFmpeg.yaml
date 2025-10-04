@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2024/Oct/11
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: Mojang.MinecraftLauncher
-PackageVersion: 2.0.0.0
+PackageIdentifier: yt-dlp.FFmpeg
+PackageVersion: N-121271-g74115b017c-20250930
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
