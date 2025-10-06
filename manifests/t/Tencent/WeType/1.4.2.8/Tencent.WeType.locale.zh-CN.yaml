@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: Tencent.WeType
-PackageVersion: 1.4.2.12
+PackageVersion: 1.4.2.8
 PackageLocale: zh-CN
 Publisher: 腾讯科技(深圳)有限公司
 PublisherUrl: https://z.weixin.qq.com/
@@ -19,10 +19,6 @@ Tags:
 - 拼音
 - 汉语
 - 输入法
-ReleaseNotes: |-
-  - 提升输入流畅度
-  - 修复已知问题
-ReleaseNotesUrl: https://z.weixin.qq.com/web/change-log/133
 InstallationNotes: |-
   请尽量使用输入法自带的更新功能。如果必须使用 WinGet 来更新，请运行：
       winget install Tencent.WeType --interactive --force
