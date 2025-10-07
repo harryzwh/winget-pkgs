@@ -1,8 +1,8 @@
-# Created using wingetcreate 1.10.3.0
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: matchmycolor.ColibriBeta
-PackageVersion: 25.2.0.15697
+PackageIdentifier: Flexense.DiskBoss
+PackageVersion: 16.0.12
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
