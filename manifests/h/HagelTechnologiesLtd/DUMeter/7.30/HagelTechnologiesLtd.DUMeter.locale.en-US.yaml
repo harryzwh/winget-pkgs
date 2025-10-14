@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: HagelTechnologiesLtd.DUMeter
-PackageVersion: '8.10'
+PackageVersion: '7.30'
 PackageLocale: en-US
 Publisher: Hagel Technologies Ltd.
 PublisherUrl: https://www.hageltech.com/about/us
@@ -25,11 +25,12 @@ Agreements:
 - AgreementLabel: DU Meter End User License Agreement
   AgreementUrl: https://www.hageltech.com/dumeter/license
 ReleaseNotes: |-
-  November 18, 2024:
-  - Fixed rare crashes upon application exit.
-  - Improved UI layouts for non-English languages.
-  - Updated dependencies for enhanced security.
-ReleaseNotesUrl: https://www.hageltech.com/dumeter/news8
+  February 11, 2018:
+  - Improvement: Added a menu option to select current tab from the tray icon pop-up menu. This option is enabled only when click-through mode is active, as it's most useful in the click-through mode.
+  - Improvement: DU Meter window is no longer shown on an Alt-Tab list of windows.
+  - Fixed: click-through mode was incompatible with, and could not be enabled while in High-Contrast color mode.
+  - Miscellaneous minor fixes to localization and translation.
+ReleaseNotesUrl: https://www.hageltech.com/dumeter/news7
 PurchaseUrl: https://www.hageltech.com/dumeter/buy
 InstallationNotes: |
   Monitor your Internet connection and accurately meter network traffic with DU Meter. This DU Meter download is fully functional and can be used for 30 days for free. If you would like to keep it after 30 days, you will need to get a license. If you already own DU Meter license, please see DU Meter upgrade web page.
