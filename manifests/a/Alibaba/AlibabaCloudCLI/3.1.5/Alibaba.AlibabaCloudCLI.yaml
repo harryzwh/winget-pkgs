@@ -1,8 +1,8 @@
 # Created with YamlCreate.ps1 Dumplings Mod
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: TRUSTSING.iDefender
-PackageVersion: 5.2.1.0
-DefaultLocale: zh-CN
+PackageIdentifier: Alibaba.AlibabaCloudCLI
+PackageVersion: 3.1.5
+DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
