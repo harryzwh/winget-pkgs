@@ -1,8 +1,8 @@
-# Automatically updated by the winget bot at 2025/Nov/22
+# Created using wingetcreate 1.10.3.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
 
-PackageIdentifier: JLC.LCEDA.Pro
-PackageVersion: 2.2.43.2
+PackageIdentifier: Wimysoft.WimyGit.Nightly
+PackageVersion: 1.50.13
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.10.0
