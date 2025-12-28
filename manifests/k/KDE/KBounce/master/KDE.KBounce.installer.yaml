@@ -9,14 +9,14 @@ ProductCode: kbounce
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-772-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 7F623C80AB866F2603AC080EDA195321C361477609859AB67FFB9EC9DAAD26B6
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-793-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FC10BA5111E6B46B1C11624494E67987D3C360307E437FDBF9254994FC5B8238
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-772-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 7F623C80AB866F2603AC080EDA195321C361477609859AB67FFB9EC9DAAD26B6
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kbounce/master/windows/kbounce-master-793-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: FC10BA5111E6B46B1C11624494E67987D3C360307E437FDBF9254994FC5B8238
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

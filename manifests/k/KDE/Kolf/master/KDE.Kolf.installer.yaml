@@ -9,14 +9,14 @@ ProductCode: kolf
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-916-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 5F9D89C21814CD517EAF65791285F3DABAF1435E1D68AF0826CDADA6F9978A14
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-941-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 14D86F595DFB10FED322EC7F6E25FADD5276B47E188E65ECDD044ECDA22DB443
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-916-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 5F9D89C21814CD517EAF65791285F3DABAF1435E1D68AF0826CDADA6F9978A14
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kolf/master/windows/kolf-master-941-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 14D86F595DFB10FED322EC7F6E25FADD5276B47E188E65ECDD044ECDA22DB443
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
